@@ -1,0 +1,97 @@
+body {
+    background-color: #ffffff;
+}
+.land-page {
+    height: 1100px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #8f8f8f;
+    border-radius: 6px;
+}
+.header {
+    text-align: center;
+    background-image: url('images/backgroundimage.jpeg');
+    background-size: cover;
+    opacity: 50%;
+    width: 500px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bottom {
+    width: 500px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.head-text {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 64px;
+    color: #ffffff;
+    text-shadow: 0 0 15px #000000;
+}
+.head-text-second {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+    color: #ffffff;
+    text-shadow: 0 0 20px #000000;
+}
+.first-input {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 18px;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    color: #000000;
+}
+.second-input {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 18px;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    color: #000000;
+}
+#name {
+    width: 450px;
+    height: 45px;
+    background-color: #ededed;
+    margin-bottom: 50px;
+    border: 1px solid #c7c7c7;
+}
+#email {
+    width: 450px;
+    height: 45px;
+    background-color: #ededed;
+    margin-bottom: 50px;
+    border: 1px solid #c7c7c7;
+}
+.button {
+    width: 450px;
+    height: 45px;
+    background: #8f8f8f;
+    color: #ffffff;
+    font-size: 18px;
+    border: 0;
+}
+.signin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 18px;
+    margin-top: 50px;
+}
